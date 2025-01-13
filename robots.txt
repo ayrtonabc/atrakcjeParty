@@ -1,0 +1,9 @@
+# robots.txt para atrakcje-party.pl
+
+# Permitir que todos los bots rastreen todo el sitio
+User-agent: *
+Disallow:
+
+
+# Sitemap
+Sitemap: http://atrakcje-party.pl/sitemap.xml
